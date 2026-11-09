@@ -2,9 +2,9 @@
 
 [English](https://github.com/Skilltage/.github/blob/main/profile/README.md) · [Dansk](https://github.com/Skilltage/.github/blob/main/profile/README.da.md) · [Polski](https://github.com/Skilltage/.github/blob/main/profile/README.pl.md) · [Nederlands](https://github.com/Skilltage/.github/blob/main/profile/README.nl.md)
 
-## AI-understøttet CV-screening og arbejdet før jobsamtalen
+## Hele rekrutteringen samlet ét sted: AI-understøttet rekrutteringssystem (ATS)
 
-Skilltage hjælper europæiske rekrutteringsteams med at fastlægge krav til stillingen, modtage ansøgninger og gennemgå oplysninger fra den enkelte kandidats CV. Rekruttereren beslutter, hvem der går videre, og styrer kommunikationen med kandidaterne.
+Skilltage er et rekrutteringssystem (ATS) til små og mellemstore virksomheder. Det hjælper rekrutteringsteams med at fastlægge krav til stillingen, modtage ansøgninger, gennemgå oplysninger fra den enkelte kandidats CV, invitere til samtale og registrere beslutningen. Rekruttereren beslutter, hvem der går videre, og styrer kommunikationen med kandidaterne.
 
 Med Skilltage Unscripted stiller rekruttereren ét konkret spørgsmål, som kandidaten besvarer på video, når det passer. Kandidaten vælger ét svar. Materiale baseret på transskriptionen støtter rekruttererens gennemgang uden at vurdere udseende, følelser, accent eller personlighed.
 
@@ -12,6 +12,7 @@ Med Skilltage Unscripted stiller rekruttereren ét konkret spørgsmål, som kand
 2. Modtag ansøgninger og gennemgå CV-oplysninger med kildehenvisninger, manglende oplysninger og usikkerhed.
 3. Invitér til ét videosvar, når det er relevant.
 4. Gennemgå materialet, og vælg selv næste skridt.
+5. Flyt kandidaterne videre gennem samtale, jobtilbud og ansættelse, og hold alle kandidater orienteret med e-mails, du selv gennemgår.
 
 [Se Skilltages funktioner](https://skilltage.com/da/features)
 

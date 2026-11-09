@@ -2,9 +2,9 @@
 
 [English](https://github.com/Skilltage/.github/blob/main/profile/README.md) · [Dansk](https://github.com/Skilltage/.github/blob/main/profile/README.da.md) · [Polski](https://github.com/Skilltage/.github/blob/main/profile/README.pl.md) · [Nederlands](https://github.com/Skilltage/.github/blob/main/profile/README.nl.md)
 
-## CV-screening met AI-ondersteuning en het werk vóór het sollicitatiegesprek
+## Het hele wervingsproces op één plek: applicant tracking met AI-ondersteuning
 
-Skilltage helpt Europese recruitmentteams functie-eisen vast te leggen, sollicitaties te verzamelen en concrete informatie uit het cv van iedere kandidaat te bekijken. Recruiters beslissen wie doorgaat en houden de regie over de communicatie met kandidaten.
+Skilltage is een applicant tracking system (ATS) voor kleine en middelgrote organisaties. Het helpt recruitmentteams functie-eisen vast te leggen, sollicitaties te verzamelen, concrete informatie uit het cv van iedere kandidaat te bekijken, kandidaten uit te nodigen voor gesprekken en de beslissing vast te leggen. Recruiters beslissen wie doorgaat en houden de regie over de communicatie met kandidaten.
 
 Met Skilltage Unscripted stelt de recruiter één gerichte vraag. De kandidaat neemt op een geschikt moment een videoantwoord op en kiest één antwoord. Materiaal op basis van het transcript ondersteunt de beoordeling door de recruiter, zonder uiterlijk, emoties, accent of persoonlijkheid te beoordelen.
 
@@ -12,6 +12,7 @@ Met Skilltage Unscripted stelt de recruiter één gerichte vraag. De kandidaat n
 2. Verzamel sollicitaties en bekijk cv-informatie met bronverwijzingen, ontbrekende informatie en onzekerheid.
 3. Nodig een kandidaat uit voor één videoantwoord wanneer dat zinvol is.
 4. Bekijk het materiaal en bepaal zelf de volgende stap.
+5. Breng kandidaten via gesprek en aanbod naar aanname, en houd iedere kandidaat op de hoogte met e-mails die je zelf nakijkt.
 
 [Bekijk de functies van Skilltage](https://skilltage.com/nl/features)
 
